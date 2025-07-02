@@ -33,5 +33,63 @@ https://web.dio.me/lab/simulador-de-corridas-do-mario-kart-com-nodejs/learning/a
 
 
 
+[**](https://web.dio.me/track/meutudo-mobile-developer)
 
+##### Simulador de Corridas do Mario Kart com Node.js
 
+**
+
+**
+
+**
+
+XP 452718/492210
+
+NÍVEL 41
+
+**5/5**
+
+- CONTEÚDOS
+- INFORMAÇÕES
+
+Introdução
+
+Regras De Negócio
+
+DemonstraçãoSetup
+
+ObjetosRoll Dice (Async Functions)
+
+Main (Auto Invoke)
+
+Start (Template String)
+
+Race Engine (Functions Chains)
+
+Rounds (For)
+
+Blocks (Switch Case)
+
+Convenções
+
+Testando Blocos (If)
+
+Escopo De Variaveis
+
+Log Roll (Encapsulate)
+
+Javascript Expressions
+
+Winner - (Else If's)
+
+Diminuindo Ifs (If Ternario)
+
+Condição Dupla (If Combinado)
+
+Game Over (Clean Ifs)
+
+Conclusão
+
+Projeto Base
+
+Entendendo o Desafio
